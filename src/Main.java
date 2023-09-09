@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world");
         System.out.println("Зацепін Богдан ПЗ-20-1/9 ");
         System.out.println("10.09.2023");
+        //this comment just for test!!!
     }
 }
